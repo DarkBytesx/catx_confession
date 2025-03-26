@@ -17,7 +17,7 @@ end
 
 local function logConfession(xPlayer, confessionId, price, replyToId)
     -- Discord logging
-    local logWebhook = "https://discord.com/api/webhooks/1354131394586087507/WNyLZd5HkvnUzITrwLewoJ51TbEO5CLpZTnJ-zLLTUvm1qtr-WXTqtl1qh5lXK1b493F"
+    local logWebhook = "" -- Logging Who Fucking Use it 
     local logEmbed = {
         {
             title = "Confession Log",
