@@ -28,3 +28,13 @@ Pre-Configured Word Filter: Helps maintain appropriate content.
 This script is open source. No support will be provided.
 
 Brought to you by CAT DEVELOPMENT
+
+In-Game Confession 
+![image](https://github.com/user-attachments/assets/2ac785a0-93d2-4e74-a232-3a42c328a7a3)
+Discord Logging 
+![image](https://github.com/user-attachments/assets/448a8f41-a3ee-4454-8c9b-3469bfcfeb24)
+Confession 
+![image](https://github.com/user-attachments/assets/16424fe1-7282-4b1c-80bc-1bd1e671b221)
+Reply Confession 
+![image](https://github.com/user-attachments/assets/de152f42-19fa-4b7b-8694-3a253e88219f)
+
