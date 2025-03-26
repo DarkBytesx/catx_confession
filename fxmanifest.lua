@@ -1,5 +1,3 @@
-shared_script '@catnyan/ai_module_fg-obfuscated.lua'
-shared_script '@catnyan/shared_fg-obfuscated.lua'
 fx_version 'cerulean'
 game 'gta5'
 
