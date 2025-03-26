@@ -1,40 +1,64 @@
-# CATX CONFESSION SCRIPT [ESX]  
-Features
+# CATX Confession Script [ESX]
 
-Configurable Pricing: Set the confession fee to free or any desired amount.
+## Features
 
-Fee Destination: Choose where the confession fee will go.
+- **Configurable Pricing:**
+  - Set the confession fee to free or any desired amount.
 
-Easy to Use: Type /confess to start confessing.
+- **Fee Destination:**
+  - Choose where the confession fee will go.
 
-Anonymity Option: Post anonymously or show your name.
+- **Easy to Use:**
+  - Type `/confess` to start confessing.
 
-Mandatory Input: Confessions won't send if the box is left empty.
+- **Anonymity Option:**
+  - Post anonymously or show your name.
 
-Confession Type Selection: Choose your emotion — Sad, Angry, In-Love, etc.
+- **Mandatory Input:**
+  - Confessions won't send if the box is left empty.
 
-Reply Feature: Reply to the latest confessions (only the last 10 are visible).
+- **Confession Type Selection:**
+  - Choose your emotion — Sad, Angry, In-Love, etc.
 
-Discord Integration
+- **Reply Feature:**
+  - Reply to the latest confessions (only the last 10 are visible).
 
-Send to Discord: Can be configured via config.lua.
+## Discord Integration
 
-Discord Logging: Logs who uses the confession feature.
+- **Send to Discord:**
+  - Can be configured via `config.lua`.
 
-Word Filtering: Can be enabled via config.lua.
+- **Discord Logging:**
+  - Logs who uses the confession feature.
 
-Pre-Configured Word Filter: Helps maintain appropriate content.
+- **Word Filtering:**
+  - Can be enabled via `config.lua`.
+
+- **Pre-Configured Word Filter:**
+  - Helps maintain appropriate content.
+
+---
+
+## Disclaimer
 
 This script is open source. No support will be provided.
 
-Brought to you by CAT DEVELOPMENT
+---
 
-In-Game Confession 
-![image](https://github.com/user-attachments/assets/2ac785a0-93d2-4e74-a232-3a42c328a7a3)
-Discord Logging 
-![image](https://github.com/user-attachments/assets/448a8f41-a3ee-4454-8c9b-3469bfcfeb24)
-Confession 
-![image](https://github.com/user-attachments/assets/16424fe1-7282-4b1c-80bc-1bd1e671b221)
-Reply Confession 
-![image](https://github.com/user-attachments/assets/de152f42-19fa-4b7b-8694-3a253e88219f)
+## Brought to you by CAT DEVELOPMENT
 
+---
+
+## Screenshots
+
+### In-Game Confession
+![In-Game Confession](https://github.com/user-attachments/assets/2ac785a0-93d2-4e74-a232-3a42c328a7a3)
+
+### Discord Logging
+![Discord Logging](https://github.com/user-attachments/assets/448a8f41-a3ee-4454-8c9b-3469bfcfeb24)
+
+### Confession
+![Confession](https://github.com/user-attachments/assets/16424fe1-7282-4b1c-80bc-1bd1e671b221)
+
+### Reply Confession
+![Reply Confession](https://github.com/user-attachments/assets/de152f42-19fa-4b7b-8694-3a253e88219f)
