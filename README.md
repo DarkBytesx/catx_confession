@@ -27,6 +27,7 @@ This script is open source. No support will be provided.
 Dependencies
 
 ESX Framework
+
 ox_lib
 
 Summary
