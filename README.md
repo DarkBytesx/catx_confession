@@ -1,35 +1,30 @@
-# CATX Confession Script
-
+# CATX CONFESSION SCRIPT [ESX]  
 Features
 
-/confess Command: Players can send confessions in-game.
+Configurable Pricing: Set the confession fee to free or any desired amount.
 
-Confirmation Prompt: Warns players of a bank fee before confessing.
+Fee Destination: Choose where the confession fee will go.
 
-Input Dialog: Choose to display as real name or anonymously, with a text area for the confession.
+Easy to Use: Type /confess to start confessing.
 
-Confession Fee: Deducts a configurable amount (default: $1000) from the player's bank.
+Anonymity Option: Post anonymously or show your name.
 
-Discord Integration: Sends confessions to a specified Discord webhook.
+Mandatory Input: Confessions won't send if the box is left empty.
 
-Society Account: Confession fees go to a specified society account (default: society_admin).
+Confession Type Selection: Choose your emotion — Sad, Angry, In-Love, etc.
 
-Bank Check: Ensures players have enough money before processing.
+Reply Feature: Reply to the latest confessions (only the last 10 are visible).
 
-Notifications: Success and failure alerts via ox_lib.
+Discord Integration
 
-Server Logs: Logs success or failure of confession sending.
+Send to Discord: Can be configured via config.lua.
 
-Configurable: Fee, webhook, and society account set in config.lua.
+Discord Logging: Logs who uses the confession feature.
+
+Word Filtering: Can be enabled via config.lua.
+
+Pre-Configured Word Filter: Helps maintain appropriate content.
 
 This script is open source. No support will be provided.
 
-Dependencies
-
-ESX Framework
-
-ox_lib
-
-Summary
-
-A fun in-game-to-Discord confession system with bank fees, anonymity options, and Discord integration.
+Brought to you by CAT DEVELOPMENT
