@@ -22,11 +22,12 @@ Server Logs: Logs success or failure of confession sending.
 
 Configurable: Fee, webhook, and society account set in config.lua.
 
+This script is open source. No support will be provided.
+
 Dependencies
 
 ESX Framework
-
-ox_lib for notifications and input.
+ox_lib
 
 Summary
 
