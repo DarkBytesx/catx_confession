@@ -7,11 +7,11 @@ end
 
 local function getColorByType(type)
     if type == "anger" then
-        return 16711680 -- Red
+        return 16711680
     elseif type == "love" then
-        return 255 -- Blue
+        return 255
     else
-        return 65280 -- Green (Neutral)
+        return 65280
     end
 end
 
@@ -29,7 +29,7 @@ local function logConfession(xPlayer, confessionId, price, replyToId)
                 {name = "Confession ID", value = tostring(confessionId), inline = true},
                 {name = "Time", value = os.date("%Y-%m-%d %H:%M:%S"), inline = true}
             },
-            color = 3447003 -- Blue
+            color = 3447003
         }
     }
 
