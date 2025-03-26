@@ -2,7 +2,7 @@ Config = {}
 
 Config.ConfessionFee = 1000
 
-Config.ConfessionWebhook = "https://discord.com/api/webhooks/1354145562953252884/msK3elIariGIJbWdgJIAE6M1PCe0w5bDKUkyyRAsAMako0hiz22NeuyfgM7SLSuoR6p4"
+Config.ConfessionWebhook = ""
 
 Config.ConfessionSociety = "society_admin"
 
