@@ -94,7 +94,7 @@ AddEventHandler("catx_confession:sv:ctd", function(displayName, confession, conf
             position = "center-right"
         })
 
-        TriggerClientEvent("updatehulingalaala", src, confessionId)
+        TriggerClientEvent("updatehulingalaala", -1, confessionId)
     else
         TriggerClientEvent("ox_lib:notify", src, {
             title = "Confession",
